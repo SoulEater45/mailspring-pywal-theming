@@ -1,0 +1,13 @@
+{
+  "name": "pywal-theme",
+  "title": "Pywal Theme",
+  "displayName": "Pywal Theme",
+  "theme": "ui",
+  "version": "0.1.0",
+  "description": "A theme that changes with your wallpaper",
+  "license": "MIT",
+  "engines": {
+    "mailspring": "*"
+  }
+}
+
